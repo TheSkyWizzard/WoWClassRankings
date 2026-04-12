@@ -8,8 +8,8 @@
                 "tier": "A"
             },
             "Raid": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 3,
+                "color": "rgb(243, 208, 55)",
+                "rank": 4,
                 "role": "Tank",
                 "tier": "B"
             }
@@ -104,7 +104,7 @@
                 "tier": "A+"
             },
             "Raid": {
-                "color": "rgb(243, 208, 55)",
+                "color": "rgb(196, 255, 107)",
                 "rank": 6,
                 "role": "Tank",
                 "tier": "C"
@@ -160,10 +160,10 @@
                 "tier": "A"
             },
             "Raid": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 5,
+                "color": "rgb(211, 33, 33)",
+                "rank": 1,
                 "role": "Tank",
-                "tier": "C"
+                "tier": "S"
             }
         },
         "Restoration": {
@@ -370,8 +370,8 @@
                 "tier": "S"
             },
             "Raid": {
-                "color": "rgb(211, 33, 33)",
-                "rank": 1,
+                "color": "rgb(227, 126, 0)",
+                "rank": 3,
                 "role": "Tank",
                 "tier": "A"
             }
@@ -434,8 +434,8 @@
                 "tier": "A+"
             },
             "Raid": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 4,
+                "color": "rgb(243, 208, 55)",
+                "rank": 5,
                 "role": "Tank",
                 "tier": "B"
             }
@@ -743,7 +743,7 @@
                 "color": "rgb(211, 33, 33)",
                 "rank": 2,
                 "role": "Tank",
-                "tier": "A"
+                "tier": "S"
             }
         }
     }
