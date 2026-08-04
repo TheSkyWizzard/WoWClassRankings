@@ -174,10 +174,10 @@
                 "tier": "B"
             },
             "Raid": {
-                "color": "rgb(211, 33, 33)",
-                "rank": 1,
+                "color": "rgb(243, 208, 55)",
+                "rank": 6,
                 "role": "Healer",
-                "tier": "S"
+                "tier": "B"
             }
         }
     },
@@ -230,10 +230,10 @@
                 "tier": "C"
             },
             "Raid": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 4,
+                "color": "rgb(211, 33, 33)",
+                "rank": 3,
                 "role": "Healer",
-                "tier": "A"
+                "tier": "S"
             }
         }
     },
@@ -384,10 +384,10 @@
                 "tier": "S"
             },
             "Raid": {
-                "color": "rgb(211, 33, 33)",
-                "rank": 2,
+                "color": "rgb(243, 208, 55)",
+                "rank": 7,
                 "role": "Healer",
-                "tier": "S"
+                "tier": "B"
             }
         },
         "Windwalker": {
@@ -420,10 +420,10 @@
                 "tier": "B"
             },
             "Raid": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 6,
+                "color": "rgb(211, 33, 33)",
+                "rank": 2,
                 "role": "Healer",
-                "tier": "B"
+                "tier": "S"
             }
         },
         "Protection": {
@@ -471,7 +471,7 @@
             },
             "Raid": {
                 "color": "rgb(211, 33, 33)",
-                "rank": 3,
+                "rank": 1,
                 "role": "Healer",
                 "tier": "S"
             }
@@ -484,10 +484,10 @@
                 "tier": "C"
             },
             "Raid": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 7,
+                "color": "rgb(227, 126, 0)",
+                "rank": 5,
                 "role": "Healer",
-                "tier": "B"
+                "tier": "A"
             }
         },
         "Shadow": {
@@ -622,10 +622,10 @@
                 "tier": "A+"
             },
             "Raid": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 5,
+                "color": "rgb(227, 126, 0)",
+                "rank": 4,
                 "role": "Healer",
-                "tier": "B"
+                "tier": "A"
             }
         }
     },
