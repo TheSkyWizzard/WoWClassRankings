@@ -175,7 +175,7 @@
             },
             "Raid": {
                 "color": "rgb(227, 126, 0)",
-                "rank": 4,
+                "rank": 6,
                 "role": "Healer",
                 "tier": "A"
             }
@@ -420,10 +420,10 @@
                 "tier": "S"
             },
             "Raid": {
-                "color": "rgb(211, 33, 33)",
-                "rank": 2,
+                "color": "rgb(227, 126, 0)",
+                "rank": 5,
                 "role": "Healer",
-                "tier": "S"
+                "tier": "A"
             }
         },
         "Protection": {
@@ -471,7 +471,7 @@
             },
             "Raid": {
                 "color": "rgb(211, 33, 33)",
-                "rank": 3,
+                "rank": 2,
                 "role": "Healer",
                 "tier": "S"
             }
@@ -484,10 +484,10 @@
                 "tier": "A"
             },
             "Raid": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 6,
+                "color": "rgb(211, 33, 33)",
+                "rank": 3,
                 "role": "Healer",
-                "tier": "A"
+                "tier": "S"
             }
         },
         "Shadow": {
@@ -623,7 +623,7 @@
             },
             "Raid": {
                 "color": "rgb(227, 126, 0)",
-                "rank": 5,
+                "rank": 4,
                 "role": "Healer",
                 "tier": "A"
             }
