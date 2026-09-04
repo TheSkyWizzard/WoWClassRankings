@@ -161,7 +161,7 @@
             },
             "Raid": {
                 "color": "rgb(227, 126, 0)",
-                "rank": 2,
+                "rank": 3,
                 "role": "Tank",
                 "tier": "A"
             }
@@ -371,7 +371,7 @@
             },
             "Raid": {
                 "color": "rgb(227, 126, 0)",
-                "rank": 3,
+                "rank": 4,
                 "role": "Tank",
                 "tier": "A"
             }
@@ -434,10 +434,10 @@
                 "tier": "A"
             },
             "Raid": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 5,
+                "color": "rgb(211, 33, 33)",
+                "rank": 2,
                 "role": "Tank",
-                "tier": "A"
+                "tier": "S"
             }
         },
         "Retribution": {
@@ -741,7 +741,7 @@
             },
             "Raid": {
                 "color": "rgb(227, 126, 0)",
-                "rank": 4,
+                "rank": 5,
                 "role": "Tank",
                 "tier": "A"
             }
