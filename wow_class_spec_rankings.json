@@ -23,7 +23,7 @@
             },
             "PvP": {
                 "color": "rgb(196, 255, 107)",
-                "rank": 21,
+                "rank": 22,
                 "role": "DPS",
                 "tier": "B"
             },
@@ -43,7 +43,7 @@
             },
             "PvP": {
                 "color": "rgb(227, 126, 0)",
-                "rank": 7,
+                "rank": 10,
                 "role": "DPS",
                 "tier": "A+"
             },
@@ -65,7 +65,7 @@
             },
             "PvP": {
                 "color": "rgb(243, 208, 55)",
-                "rank": 15,
+                "rank": 17,
                 "role": "DPS",
                 "tier": "A"
             },
@@ -121,7 +121,7 @@
             },
             "PvP": {
                 "color": "rgb(227, 126, 0)",
-                "rank": 9,
+                "rank": 12,
                 "role": "DPS",
                 "tier": "A+"
             },
@@ -140,10 +140,10 @@
                 "tier": "A+"
             },
             "PvP": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 12,
+                "color": "rgb(227, 126, 0)",
+                "rank": 8,
                 "role": "DPS",
-                "tier": "A"
+                "tier": "A+"
             },
             "Raid": {
                 "color": "rgb(196, 255, 107)",
@@ -247,7 +247,7 @@
             },
             "PvP": {
                 "color": "rgb(227, 126, 0)",
-                "rank": 8,
+                "rank": 11,
                 "role": "DPS",
                 "tier": "A+"
             },
@@ -267,7 +267,7 @@
             },
             "PvP": {
                 "color": "rgb(243, 208, 55)",
-                "rank": 18,
+                "rank": 20,
                 "role": "DPS",
                 "tier": "A"
             },
@@ -287,7 +287,7 @@
             },
             "PvP": {
                 "color": "rgb(196, 255, 107)",
-                "rank": 20,
+                "rank": 21,
                 "role": "DPS",
                 "tier": "B"
             },
@@ -309,7 +309,7 @@
             },
             "PvP": {
                 "color": "rgb(196, 255, 107)",
-                "rank": 22,
+                "rank": 23,
                 "role": "DPS",
                 "tier": "B"
             },
@@ -328,10 +328,10 @@
                 "tier": "B"
             },
             "PvP": {
-                "color": "rgb(196, 255, 107)",
-                "rank": 23,
+                "color": "rgb(211, 33, 33)",
+                "rank": 4,
                 "role": "DPS",
-                "tier": "B"
+                "tier": "S"
             },
             "Raid": {
                 "color": "rgb(243, 208, 55)",
@@ -349,7 +349,7 @@
             },
             "PvP": {
                 "color": "rgb(243, 208, 55)",
-                "rank": 17,
+                "rank": 19,
                 "role": "DPS",
                 "tier": "A"
             },
@@ -398,10 +398,10 @@
                 "tier": "S"
             },
             "PvP": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 13,
+                "color": "rgb(227, 126, 0)",
+                "rank": 9,
                 "role": "DPS",
-                "tier": "A"
+                "tier": "A+"
             },
             "Raid": {
                 "color": "rgb(243, 208, 55)",
@@ -449,7 +449,7 @@
             },
             "PvP": {
                 "color": "rgb(227, 126, 0)",
-                "rank": 4,
+                "rank": 5,
                 "role": "DPS",
                 "tier": "A+"
             },
@@ -520,10 +520,10 @@
                 "tier": "A+"
             },
             "PvP": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 11,
+                "color": "rgb(211, 33, 33)",
+                "rank": 2,
                 "role": "DPS",
-                "tier": "A"
+                "tier": "S"
             },
             "Raid": {
                 "color": "rgb(227, 126, 0)",
@@ -541,7 +541,7 @@
             },
             "PvP": {
                 "color": "rgb(243, 208, 55)",
-                "rank": 10,
+                "rank": 13,
                 "role": "DPS",
                 "tier": "A"
             },
@@ -560,10 +560,10 @@
                 "tier": "A+"
             },
             "PvP": {
-                "color": "rgb(211, 33, 33)",
-                "rank": 1,
+                "color": "rgb(227, 126, 0)",
+                "rank": 7,
                 "role": "DPS",
-                "tier": "S"
+                "tier": "A+"
             },
             "Raid": {
                 "color": "rgb(211, 33, 33)",
@@ -583,7 +583,7 @@
             },
             "PvP": {
                 "color": "rgb(243, 208, 55)",
-                "rank": 14,
+                "rank": 16,
                 "role": "DPS",
                 "tier": "A"
             },
@@ -602,10 +602,10 @@
                 "tier": "A"
             },
             "PvP": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 5,
+                "color": "rgb(243, 208, 55)",
+                "rank": 15,
                 "role": "DPS",
-                "tier": "A+"
+                "tier": "A"
             },
             "Raid": {
                 "color": "rgb(243, 208, 55)",
@@ -679,7 +679,7 @@
             },
             "PvP": {
                 "color": "rgb(243, 208, 55)",
-                "rank": 16,
+                "rank": 18,
                 "role": "DPS",
                 "tier": "A"
             },
@@ -701,7 +701,7 @@
             },
             "PvP": {
                 "color": "rgb(211, 33, 33)",
-                "rank": 2,
+                "rank": 1,
                 "role": "DPS",
                 "tier": "S"
             },
@@ -720,10 +720,10 @@
                 "tier": "A"
             },
             "PvP": {
-                "color": "rgb(196, 255, 107)",
-                "rank": 19,
+                "color": "rgb(243, 208, 55)",
+                "rank": 14,
                 "role": "DPS",
-                "tier": "B"
+                "tier": "A"
             },
             "Raid": {
                 "color": "rgb(243, 208, 55)",
