@@ -36,10 +36,10 @@
         },
         "Unholy": {
             "M+": {
-                "color": "#f3d037",
-                "rank": 10,
+                "color": "#c4ff6b",
+                "rank": 18,
                 "role": "DPS",
-                "tier": "A+"
+                "tier": "A"
             },
             "PvP": {
                 "color": "#f3d037",
@@ -66,10 +66,10 @@
     "Demon Hunter": {
         "Devourer": {
             "M+": {
-                "color": "#c4ff6b",
-                "rank": 19,
+                "color": "#f3d037",
+                "rank": 9,
                 "role": "DPS",
-                "tier": "A"
+                "tier": "A+"
             },
             "PvP": {
                 "color": "#c4ff6b",
@@ -87,7 +87,7 @@
         "Havoc": {
             "M+": {
                 "color": "#c4ff6b",
-                "rank": 16,
+                "rank": 14,
                 "role": "DPS",
                 "tier": "A"
             },
@@ -122,10 +122,10 @@
     "Druid": {
         "Balance": {
             "M+": {
-                "color": "#f3d037",
-                "rank": 14,
+                "color": "#c4ff6b",
+                "rank": 17,
                 "role": "DPS",
-                "tier": "A+"
+                "tier": "A"
             },
             "PvP": {
                 "color": "#f3d037",
@@ -249,7 +249,7 @@
         "Beast Mastery": {
             "M+": {
                 "color": "#f3d037",
-                "rank": 9,
+                "rank": 10,
                 "role": "DPS",
                 "tier": "A+"
             },
@@ -289,7 +289,7 @@
         "Survival": {
             "M+": {
                 "color": "#c4ff6b",
-                "rank": 18,
+                "rank": 19,
                 "role": "DPS",
                 "tier": "A"
             },
@@ -621,7 +621,7 @@
         "Enhancement": {
             "M+": {
                 "color": "#c4ff6b",
-                "rank": 17,
+                "rank": 15,
                 "role": "DPS",
                 "tier": "A"
             },
@@ -755,7 +755,7 @@
         "Fury": {
             "M+": {
                 "color": "#c4ff6b",
-                "rank": 15,
+                "rank": 16,
                 "role": "DPS",
                 "tier": "A"
             },
