@@ -1,202 +1,55 @@
 {
     "Death Knight": {
-        "Blood": {
-            "M+": {
-                "color": "rgb(211, 33, 33)",
-                "rank": 1,
-                "role": "Tank",
-                "tier": "S"
-            },
-            "Raid": {
-                "color": "rgb(211, 33, 33)",
-                "rank": 1,
-                "role": "Tank",
-                "tier": "S"
-            }
-        },
         "Frost": {
             "M+": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 12,
+                "rank": 13,
                 "role": "DPS",
                 "tier": "A+"
-            },
-            "PvP": {
-                "color": "rgb(196, 255, 107)",
-                "rank": 22,
-                "role": "DPS",
-                "tier": "B"
-            },
-            "Raid": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 20,
-                "role": "DPS",
-                "tier": "A"
             }
         },
         "Unholy": {
             "M+": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 14,
-                "role": "DPS",
-                "tier": "A+"
-            },
-            "PvP": {
-                "color": "rgb(227, 126, 0)",
                 "rank": 10,
                 "role": "DPS",
                 "tier": "A+"
-            },
-            "Raid": {
-                "color": "rgb(196, 255, 107)",
-                "rank": 25,
-                "role": "DPS",
-                "tier": "B"
             }
         }
     },
     "Demon Hunter": {
         "Devourer": {
             "M+": {
-                "color": "rgb(196, 255, 107)",
-                "rank": 20,
-                "role": "DPS",
-                "tier": "A"
-            },
-            "PvP": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 17,
-                "role": "DPS",
-                "tier": "A"
-            },
-            "Raid": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 17,
+                "rank": 19,
                 "role": "DPS",
                 "tier": "A"
             }
         },
         "Havoc": {
             "M+": {
-                "color": "rgb(196, 255, 107)",
-                "rank": 17,
+                "rank": 16,
                 "role": "DPS",
                 "tier": "A"
-            },
-            "PvP": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 6,
-                "role": "DPS",
-                "tier": "A+"
-            },
-            "Raid": {
-                "color": "rgb(196, 255, 107)",
-                "rank": 24,
-                "role": "DPS",
-                "tier": "B"
-            }
-        },
-        "Vengeance": {
-            "M+": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 6,
-                "role": "Tank",
-                "tier": "A"
-            },
-            "Raid": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 6,
-                "role": "Tank",
-                "tier": "B"
             }
         }
     },
     "Druid": {
         "Balance": {
             "M+": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 9,
-                "role": "DPS",
-                "tier": "A+"
-            },
-            "PvP": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 12,
-                "role": "DPS",
-                "tier": "A+"
-            },
-            "Raid": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 6,
+                "rank": 14,
                 "role": "DPS",
                 "tier": "A+"
             }
         },
         "Feral": {
             "M+": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 11,
+                "rank": 7,
                 "role": "DPS",
-                "tier": "A+"
-            },
-            "PvP": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 8,
-                "role": "DPS",
-                "tier": "A+"
-            },
-            "Raid": {
-                "color": "rgb(196, 255, 107)",
-                "rank": 26,
-                "role": "DPS",
-                "tier": "B"
-            }
-        },
-        "Guardian": {
-            "M+": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 2,
-                "role": "Tank",
-                "tier": "A+"
-            },
-            "Raid": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 3,
-                "role": "Tank",
-                "tier": "A"
-            }
-        },
-        "Restoration": {
-            "M+": {
-                "color": "rgb(196, 255, 107)",
-                "rank": 6,
-                "role": "Healer",
-                "tier": "B"
-            },
-            "Raid": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 6,
-                "role": "Healer",
-                "tier": "A"
+                "tier": "S"
             }
         }
     },
     "Evoker": {
         "Augmentation": {
             "M+": {
-                "color": "rgb(226, 131, 226)",
-                "rank": 27,
-                "role": "DPS",
-                "tier": "C"
-            },
-            "PvP": {
-                "color": "rgb(128, 146, 241)",
-                "rank": 27,
-                "role": "DPS",
-                "tier": "C"
-            },
-            "Raid": {
-                "color": "rgb(128, 146, 241)",
                 "rank": 27,
                 "role": "DPS",
                 "tier": "C"
@@ -204,96 +57,30 @@
         },
         "Devastation": {
             "M+": {
-                "color": "rgb(128, 146, 241)",
-                "rank": 24,
+                "rank": 25,
                 "role": "DPS",
                 "tier": "B"
-            },
-            "PvP": {
-                "color": "rgb(196, 255, 107)",
-                "rank": 24,
-                "role": "DPS",
-                "tier": "B"
-            },
-            "Raid": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 5,
-                "role": "DPS",
-                "tier": "A+"
-            }
-        },
-        "Preservation": {
-            "M+": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 3,
-                "role": "Healer",
-                "tier": "A"
-            },
-            "Raid": {
-                "color": "rgb(211, 33, 33)",
-                "rank": 1,
-                "role": "Healer",
-                "tier": "S"
             }
         }
     },
     "Hunter": {
         "Beast Mastery": {
             "M+": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 10,
+                "rank": 9,
                 "role": "DPS",
                 "tier": "A+"
-            },
-            "PvP": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 11,
-                "role": "DPS",
-                "tier": "A+"
-            },
-            "Raid": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 15,
-                "role": "DPS",
-                "tier": "A"
             }
         },
         "Marksmanship": {
             "M+": {
-                "color": "rgb(128, 146, 241)",
-                "rank": 22,
-                "role": "DPS",
-                "tier": "B"
-            },
-            "PvP": {
-                "color": "rgb(243, 208, 55)",
                 "rank": 20,
                 "role": "DPS",
                 "tier": "A"
-            },
-            "Raid": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 12,
-                "role": "DPS",
-                "tier": "A+"
             }
         },
         "Survival": {
             "M+": {
-                "color": "rgb(196, 255, 107)",
-                "rank": 21,
-                "role": "DPS",
-                "tier": "A"
-            },
-            "PvP": {
-                "color": "rgb(196, 255, 107)",
-                "rank": 21,
-                "role": "DPS",
-                "tier": "B"
-            },
-            "Raid": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 23,
+                "rank": 18,
                 "role": "DPS",
                 "tier": "A"
             }
@@ -302,329 +89,88 @@
     "Mage": {
         "Arcane": {
             "M+": {
-                "color": "rgb(211, 33, 33)",
-                "rank": 1,
+                "rank": 2,
                 "role": "DPS",
                 "tier": "S+"
-            },
-            "PvP": {
-                "color": "rgb(196, 255, 107)",
-                "rank": 23,
-                "role": "DPS",
-                "tier": "B"
-            },
-            "Raid": {
-                "color": "rgb(211, 33, 33)",
-                "rank": 1,
-                "role": "DPS",
-                "tier": "S"
             }
         },
         "Fire": {
             "M+": {
-                "color": "rgb(128, 146, 241)",
-                "rank": 25,
+                "rank": 26,
                 "role": "DPS",
                 "tier": "B"
-            },
-            "PvP": {
-                "color": "rgb(211, 33, 33)",
-                "rank": 4,
-                "role": "DPS",
-                "tier": "S"
-            },
-            "Raid": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 14,
-                "role": "DPS",
-                "tier": "A"
             }
         },
         "Frost": {
             "M+": {
-                "color": "rgb(128, 146, 241)",
-                "rank": 23,
+                "rank": 24,
                 "role": "DPS",
                 "tier": "B"
-            },
-            "PvP": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 19,
-                "role": "DPS",
-                "tier": "A"
-            },
-            "Raid": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 19,
-                "role": "DPS",
-                "tier": "A"
             }
         }
     },
     "Monk": {
-        "Brewmaster": {
-            "M+": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 3,
-                "role": "Tank",
-                "tier": "A+"
-            },
-            "Raid": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 4,
-                "role": "Tank",
-                "tier": "A"
-            }
-        },
-        "Mistweaver": {
-            "M+": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 5,
-                "role": "Healer",
-                "tier": "A+"
-            },
-            "Raid": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 7,
-                "role": "Healer",
-                "tier": "B"
-            }
-        },
         "Windwalker": {
             "M+": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 7,
+                "rank": 8,
                 "role": "DPS",
                 "tier": "S"
-            },
-            "PvP": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 9,
-                "role": "DPS",
-                "tier": "A+"
-            },
-            "Raid": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 22,
-                "role": "DPS",
-                "tier": "A"
             }
         }
     },
     "Paladin": {
-        "Holy": {
-            "M+": {
-                "color": "rgb(211, 33, 33)",
-                "rank": 1,
-                "role": "Healer",
-                "tier": "S"
-            },
-            "Raid": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 5,
-                "role": "Healer",
-                "tier": "A"
-            }
-        },
-        "Protection": {
-            "M+": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 5,
-                "role": "Tank",
-                "tier": "A"
-            },
-            "Raid": {
-                "color": "rgb(211, 33, 33)",
-                "rank": 2,
-                "role": "Tank",
-                "tier": "S"
-            }
-        },
         "Retribution": {
             "M+": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 6,
-                "role": "DPS",
-                "tier": "S"
-            },
-            "PvP": {
-                "color": "rgb(227, 126, 0)",
                 "rank": 5,
                 "role": "DPS",
-                "tier": "A+"
-            },
-            "Raid": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 11,
-                "role": "DPS",
-                "tier": "A+"
+                "tier": "S"
             }
         }
     },
     "Priest": {
-        "Discipline": {
-            "M+": {
-                "color": "rgb(196, 255, 107)",
-                "rank": 7,
-                "role": "Healer",
-                "tier": "B"
-            },
-            "Raid": {
-                "color": "rgb(211, 33, 33)",
-                "rank": 2,
-                "role": "Healer",
-                "tier": "S"
-            }
-        },
-        "Holy": {
-            "M+": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 4,
-                "role": "Healer",
-                "tier": "A"
-            },
-            "Raid": {
-                "color": "rgb(211, 33, 33)",
-                "rank": 3,
-                "role": "Healer",
-                "tier": "S"
-            }
-        },
         "Shadow": {
             "M+": {
-                "color": "rgb(128, 146, 241)",
-                "rank": 26,
+                "rank": 21,
                 "role": "DPS",
                 "tier": "B"
-            },
-            "PvP": {
-                "color": "rgb(196, 255, 107)",
-                "rank": 25,
-                "role": "DPS",
-                "tier": "B"
-            },
-            "Raid": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 7,
-                "role": "DPS",
-                "tier": "A+"
             }
         }
     },
     "Rogue": {
         "Assassination": {
             "M+": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 8,
+                "rank": 3,
                 "role": "DPS",
-                "tier": "A+"
-            },
-            "PvP": {
-                "color": "rgb(211, 33, 33)",
-                "rank": 2,
-                "role": "DPS",
-                "tier": "S"
-            },
-            "Raid": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 10,
-                "role": "DPS",
-                "tier": "A+"
+                "tier": "S+"
             }
         },
         "Outlaw": {
             "M+": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 5,
+                "rank": 6,
                 "role": "DPS",
                 "tier": "S"
-            },
-            "PvP": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 13,
-                "role": "DPS",
-                "tier": "A"
-            },
-            "Raid": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 8,
-                "role": "DPS",
-                "tier": "A+"
             }
         },
         "Subtlety": {
             "M+": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 13,
+                "rank": 12,
                 "role": "DPS",
                 "tier": "A+"
-            },
-            "PvP": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 7,
-                "role": "DPS",
-                "tier": "A+"
-            },
-            "Raid": {
-                "color": "rgb(211, 33, 33)",
-                "rank": 4,
-                "role": "DPS",
-                "tier": "S"
             }
         }
     },
     "Shaman": {
         "Elemental": {
             "M+": {
-                "color": "rgb(211, 33, 33)",
-                "rank": 2,
+                "rank": 1,
                 "role": "DPS",
                 "tier": "S+"
-            },
-            "PvP": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 16,
-                "role": "DPS",
-                "tier": "A"
-            },
-            "Raid": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 9,
-                "role": "DPS",
-                "tier": "A+"
             }
         },
         "Enhancement": {
             "M+": {
-                "color": "rgb(196, 255, 107)",
-                "rank": 18,
+                "rank": 17,
                 "role": "DPS",
-                "tier": "A"
-            },
-            "PvP": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 15,
-                "role": "DPS",
-                "tier": "A"
-            },
-            "Raid": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 21,
-                "role": "DPS",
-                "tier": "A"
-            }
-        },
-        "Restoration": {
-            "M+": {
-                "color": "rgb(211, 33, 33)",
-                "rank": 2,
-                "role": "Healer",
-                "tier": "S"
-            },
-            "Raid": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 4,
-                "role": "Healer",
                 "tier": "A"
             }
         }
@@ -632,117 +178,38 @@
     "Warlock": {
         "Affliction": {
             "M+": {
-                "color": "rgb(196, 255, 107)",
-                "rank": 19,
+                "rank": 22,
                 "role": "DPS",
-                "tier": "A"
-            },
-            "PvP": {
-                "color": "rgb(211, 33, 33)",
-                "rank": 3,
-                "role": "DPS",
-                "tier": "S"
-            },
-            "Raid": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 16,
-                "role": "DPS",
-                "tier": "A"
+                "tier": "B"
             }
         },
         "Demonology": {
             "M+": {
-                "color": "rgb(211, 33, 33)",
-                "rank": 3,
+                "rank": 11,
                 "role": "DPS",
-                "tier": "S+"
-            },
-            "PvP": {
-                "color": "rgb(128, 146, 241)",
-                "rank": 26,
-                "role": "DPS",
-                "tier": "C"
-            },
-            "Raid": {
-                "color": "rgb(211, 33, 33)",
-                "rank": 2,
-                "role": "DPS",
-                "tier": "S"
+                "tier": "A+"
             }
         },
         "Destruction": {
             "M+": {
-                "color": "rgb(196, 255, 107)",
-                "rank": 15,
+                "rank": 23,
                 "role": "DPS",
-                "tier": "A"
-            },
-            "PvP": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 18,
-                "role": "DPS",
-                "tier": "A"
-            },
-            "Raid": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 13,
-                "role": "DPS",
-                "tier": "A+"
+                "tier": "B"
             }
         }
     },
     "Warrior": {
         "Arms": {
             "M+": {
-                "color": "rgb(211, 33, 33)",
                 "rank": 4,
                 "role": "DPS",
                 "tier": "S+"
-            },
-            "PvP": {
-                "color": "rgb(211, 33, 33)",
-                "rank": 1,
-                "role": "DPS",
-                "tier": "S"
-            },
-            "Raid": {
-                "color": "rgb(211, 33, 33)",
-                "rank": 3,
-                "role": "DPS",
-                "tier": "S"
             }
         },
         "Fury": {
             "M+": {
-                "color": "rgb(196, 255, 107)",
-                "rank": 16,
+                "rank": 15,
                 "role": "DPS",
-                "tier": "A"
-            },
-            "PvP": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 14,
-                "role": "DPS",
-                "tier": "A"
-            },
-            "Raid": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 18,
-                "role": "DPS",
-                "tier": "A"
-            }
-        },
-        "Protection": {
-            "M+": {
-                "color": "rgb(243, 208, 55)",
-                "rank": 4,
-                "role": "Tank",
-                "tier": "A"
-            },
-            "Raid": {
-                "color": "rgb(227, 126, 0)",
-                "rank": 5,
-                "role": "Tank",
                 "tier": "A"
             }
         }
