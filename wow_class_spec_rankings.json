@@ -29,7 +29,7 @@
             },
             "Raid": {
                 "color": "#c4ff6b",
-                "rank": 15,
+                "rank": 13,
                 "role": "DPS",
                 "tier": "A"
             }
@@ -78,10 +78,10 @@
                 "tier": "A"
             },
             "Raid": {
-                "color": "#8092f1",
-                "rank": 23,
+                "color": "#c4ff6b",
+                "rank": 16,
                 "role": "DPS",
-                "tier": "B"
+                "tier": "A"
             }
         },
         "Havoc": {
@@ -99,17 +99,17 @@
             },
             "Raid": {
                 "color": "#8092f1",
-                "rank": 25,
+                "rank": 24,
                 "role": "DPS",
                 "tier": "B"
             }
         },
         "Vengeance": {
             "M+": {
-                "color": "#c4ff6b",
-                "rank": 5,
+                "color": "#f3d037",
+                "rank": 4,
                 "role": "Tank",
-                "tier": "A"
+                "tier": "A+"
             },
             "Raid": {
                 "color": "#8092f1",
@@ -134,10 +134,10 @@
                 "tier": "A+"
             },
             "Raid": {
-                "color": "#f3d037",
+                "color": "#c4ff6b",
                 "rank": 10,
                 "role": "DPS",
-                "tier": "A+"
+                "tier": "A"
             }
         },
         "Feral": {
@@ -155,17 +155,17 @@
             },
             "Raid": {
                 "color": "#8092f1",
-                "rank": 19,
+                "rank": 25,
                 "role": "DPS",
                 "tier": "B"
             }
         },
         "Guardian": {
             "M+": {
-                "color": "#f3d037",
+                "color": "#e37e00",
                 "rank": 2,
                 "role": "Tank",
-                "tier": "A+"
+                "tier": "S"
             },
             "Raid": {
                 "color": "#c4ff6b",
@@ -182,10 +182,10 @@
                 "tier": "A+"
             },
             "Raid": {
-                "color": "#c4ff6b",
-                "rank": 6,
+                "color": "#e37e00",
+                "rank": 1,
                 "role": "Healer",
-                "tier": "A"
+                "tier": "S"
             }
         }
     },
@@ -205,7 +205,7 @@
             },
             "Raid": {
                 "color": "#8092f1",
-                "rank": 21,
+                "rank": 19,
                 "role": "DPS",
                 "tier": "B"
             }
@@ -238,10 +238,10 @@
                 "tier": "A"
             },
             "Raid": {
-                "color": "#e37e00",
-                "rank": 1,
+                "color": "#c4ff6b",
+                "rank": 4,
                 "role": "Healer",
-                "tier": "S"
+                "tier": "A"
             }
         }
     },
@@ -301,7 +301,7 @@
             },
             "Raid": {
                 "color": "#8092f1",
-                "rank": 20,
+                "rank": 21,
                 "role": "DPS",
                 "tier": "B"
             }
@@ -311,7 +311,7 @@
         "Arcane": {
             "M+": {
                 "color": "#d32121",
-                "rank": 2,
+                "rank": 3,
                 "role": "DPS",
                 "tier": "S+"
             },
@@ -371,7 +371,7 @@
             },
             "Raid": {
                 "color": "#c4ff6b",
-                "rank": 17,
+                "rank": 15,
                 "role": "DPS",
                 "tier": "A"
             }
@@ -401,7 +401,7 @@
             },
             "Raid": {
                 "color": "#8092f1",
-                "rank": 7,
+                "rank": 6,
                 "role": "Healer",
                 "tier": "B"
             }
@@ -421,7 +421,7 @@
             },
             "Raid": {
                 "color": "#c4ff6b",
-                "rank": 16,
+                "rank": 14,
                 "role": "DPS",
                 "tier": "A"
             }
@@ -436,16 +436,16 @@
                 "tier": "S"
             },
             "Raid": {
-                "color": "#c4ff6b",
-                "rank": 5,
+                "color": "#8092f1",
+                "rank": 7,
                 "role": "Healer",
-                "tier": "A"
+                "tier": "B"
             }
         },
         "Protection": {
             "M+": {
                 "color": "#c4ff6b",
-                "rank": 4,
+                "rank": 5,
                 "role": "Tank",
                 "tier": "A"
             },
@@ -487,7 +487,7 @@
             },
             "Raid": {
                 "color": "#e37e00",
-                "rank": 2,
+                "rank": 3,
                 "role": "Healer",
                 "tier": "S"
             }
@@ -501,7 +501,7 @@
             },
             "Raid": {
                 "color": "#e37e00",
-                "rank": 3,
+                "rank": 2,
                 "role": "Healer",
                 "tier": "S"
             }
@@ -539,7 +539,7 @@
         "Assassination": {
             "M+": {
                 "color": "#d32121",
-                "rank": 3,
+                "rank": 2,
                 "role": "DPS",
                 "tier": "S+"
             },
@@ -571,7 +571,7 @@
             },
             "Raid": {
                 "color": "#8092f1",
-                "rank": 18,
+                "rank": 17,
                 "role": "DPS",
                 "tier": "B"
             }
@@ -591,7 +591,7 @@
             },
             "Raid": {
                 "color": "#c4ff6b",
-                "rank": 13,
+                "rank": 11,
                 "role": "DPS",
                 "tier": "A"
             }
@@ -612,10 +612,10 @@
                 "tier": "A"
             },
             "Raid": {
-                "color": "#c4ff6b",
-                "rank": 11,
+                "color": "#8092f1",
+                "rank": 18,
                 "role": "DPS",
-                "tier": "A"
+                "tier": "B"
             }
         },
         "Enhancement": {
@@ -633,7 +633,7 @@
             },
             "Raid": {
                 "color": "#8092f1",
-                "rank": 24,
+                "rank": 23,
                 "role": "DPS",
                 "tier": "B"
             }
@@ -647,7 +647,7 @@
             },
             "Raid": {
                 "color": "#c4ff6b",
-                "rank": 4,
+                "rank": 5,
                 "role": "Healer",
                 "tier": "A"
             }
@@ -669,7 +669,7 @@
             },
             "Raid": {
                 "color": "#c4ff6b",
-                "rank": 14,
+                "rank": 12,
                 "role": "DPS",
                 "tier": "A"
             }
@@ -708,10 +708,10 @@
                 "tier": "A"
             },
             "Raid": {
-                "color": "#c4ff6b",
-                "rank": 12,
+                "color": "#8092f1",
+                "rank": 20,
                 "role": "DPS",
-                "tier": "A"
+                "tier": "B"
             }
         },
         "it is hard to justify bringing a Shadow over an Affliction": {
