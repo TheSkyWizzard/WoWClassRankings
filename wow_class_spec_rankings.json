@@ -49,7 +49,7 @@
             },
             "Raid": {
                 "color": "#e37e00",
-                "rank": 2,
+                "rank": 3,
                 "role": "DPS",
                 "tier": "S"
             }
@@ -67,7 +67,7 @@
         "Devourer": {
             "M+": {
                 "color": "#f3d037",
-                "rank": 9,
+                "rank": 10,
                 "role": "DPS",
                 "tier": "A+"
             },
@@ -135,7 +135,7 @@
             },
             "Raid": {
                 "color": "#c4ff6b",
-                "rank": 10,
+                "rank": 11,
                 "role": "DPS",
                 "tier": "A"
             }
@@ -143,7 +143,7 @@
         "Feral": {
             "M+": {
                 "color": "#e37e00",
-                "rank": 7,
+                "rank": 8,
                 "role": "DPS",
                 "tier": "S"
             },
@@ -225,7 +225,7 @@
             },
             "Raid": {
                 "color": "#f3d037",
-                "rank": 5,
+                "rank": 6,
                 "role": "DPS",
                 "tier": "A+"
             }
@@ -249,7 +249,7 @@
         "Beast Mastery": {
             "M+": {
                 "color": "#f3d037",
-                "rank": 10,
+                "rank": 11,
                 "role": "DPS",
                 "tier": "A+"
             },
@@ -281,7 +281,7 @@
             },
             "Raid": {
                 "color": "#f3d037",
-                "rank": 6,
+                "rank": 7,
                 "role": "DPS",
                 "tier": "A+"
             }
@@ -311,7 +311,7 @@
         "Arcane": {
             "M+": {
                 "color": "#d32121",
-                "rank": 3,
+                "rank": 4,
                 "role": "DPS",
                 "tier": "S+"
             },
@@ -323,7 +323,7 @@
             },
             "Raid": {
                 "color": "#f3d037",
-                "rank": 4,
+                "rank": 5,
                 "role": "DPS",
                 "tier": "A+"
             }
@@ -409,7 +409,7 @@
         "Windwalker": {
             "M+": {
                 "color": "#e37e00",
-                "rank": 8,
+                "rank": 9,
                 "role": "DPS",
                 "tier": "S"
             },
@@ -459,7 +459,7 @@
         "Retribution": {
             "M+": {
                 "color": "#e37e00",
-                "rank": 5,
+                "rank": 6,
                 "role": "DPS",
                 "tier": "S"
             },
@@ -471,7 +471,7 @@
             },
             "Raid": {
                 "color": "#f3d037",
-                "rank": 9,
+                "rank": 10,
                 "role": "DPS",
                 "tier": "A+"
             }
@@ -521,7 +521,7 @@
             },
             "Raid": {
                 "color": "#f3d037",
-                "rank": 3,
+                "rank": 4,
                 "role": "DPS",
                 "tier": "A+"
             }
@@ -539,7 +539,7 @@
         "Assassination": {
             "M+": {
                 "color": "#d32121",
-                "rank": 2,
+                "rank": 3,
                 "role": "DPS",
                 "tier": "S+"
             },
@@ -551,7 +551,7 @@
             },
             "Raid": {
                 "color": "#f3d037",
-                "rank": 8,
+                "rank": 9,
                 "role": "DPS",
                 "tier": "A+"
             }
@@ -559,7 +559,7 @@
         "Outlaw": {
             "M+": {
                 "color": "#e37e00",
-                "rank": 6,
+                "rank": 7,
                 "role": "DPS",
                 "tier": "S"
             },
@@ -578,10 +578,10 @@
         },
         "Subtlety": {
             "M+": {
-                "color": "#f3d037",
-                "rank": 12,
+                "color": "#d32121",
+                "rank": 1,
                 "role": "DPS",
-                "tier": "A+"
+                "tier": "S+"
             },
             "PvP": {
                 "color": "#f3d037",
@@ -590,10 +590,10 @@
                 "tier": "A+"
             },
             "Raid": {
-                "color": "#c4ff6b",
-                "rank": 11,
+                "color": "#d32121",
+                "rank": 1,
                 "role": "DPS",
-                "tier": "A"
+                "tier": "S+"
             }
         }
     },
@@ -601,7 +601,7 @@
         "Elemental": {
             "M+": {
                 "color": "#d32121",
-                "rank": 1,
+                "rank": 2,
                 "role": "DPS",
                 "tier": "S+"
             },
@@ -677,7 +677,7 @@
         "Demonology": {
             "M+": {
                 "color": "#f3d037",
-                "rank": 11,
+                "rank": 12,
                 "role": "DPS",
                 "tier": "A+"
             },
@@ -689,7 +689,7 @@
             },
             "Raid": {
                 "color": "#e37e00",
-                "rank": 1,
+                "rank": 2,
                 "role": "DPS",
                 "tier": "S"
             }
@@ -727,7 +727,7 @@
         "Arms": {
             "M+": {
                 "color": "#d32121",
-                "rank": 4,
+                "rank": 5,
                 "role": "DPS",
                 "tier": "S+"
             },
@@ -739,7 +739,7 @@
             },
             "Raid": {
                 "color": "#f3d037",
-                "rank": 7,
+                "rank": 8,
                 "role": "DPS",
                 "tier": "A+"
             }
